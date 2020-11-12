@@ -2,7 +2,18 @@
 
 exports[`renders the component 1`] = `
 <Fragment>
-  
+  <h1>
+    PROJECT 7B TIMER APP CI/CD TESTING
+  </h1>
+  <MainDisplay />
+</Fragment>
+`;
+
+exports[`renders the component 2`] = `
+<Fragment>
+  <h1>
+    PROJECT 7B TIMER APP CI/CD TESTING
+  </h1>
   <MainDisplay />
 </Fragment>
 `;
