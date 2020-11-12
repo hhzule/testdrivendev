@@ -1,0 +1,19 @@
+.App {
+  color: wheat;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 2px;
+ 
+
+}
+.App span{
+  position: relative;
+  top: 5px;
+  font-size: 4rem;
+
+}
+.timer_text{
+  font-size: 30px;
+  margin: 0;
+   font-size: 5rem;
+}

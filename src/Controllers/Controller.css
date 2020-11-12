@@ -1,0 +1,21 @@
+.controller_container{
+    margin: 15px;
+    border: none;
+    /* background-color: yellow; */
+    padding: 3px 12px;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+.controller_container button{
+    font-size: smaller;
+    color: grey;
+    font-weight: 600;
+    border: none;
+    box-shadow: none;
+    padding: 12px 24px;
+}
+.center{
+    border-left: 1px solid grey !important;
+    border-right: 1px solid grey !important;
+
+}
